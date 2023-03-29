@@ -49,4 +49,6 @@ console.log('book5:', book5);
 
 const [,,, book6] = library;
 
+/* const{ 4: fifth } = myArr */
+
 console.log('book6:', book6);
