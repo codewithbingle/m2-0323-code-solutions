@@ -4,4 +4,8 @@ console.log('In order:');
 values.forEach(values => console.log(values));
 
 console.log('Reverse order:');
-values.reverse().forEach(values => console.log(values));
+// values.reverse().forEach(values => console.log(values));
+
+values.forEach((element, index, array) => {
+  console.log(array[array.length - 1 - index]);
+});
