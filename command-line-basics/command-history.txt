@@ -1,0 +1,338 @@
+    1  git switch javascript-custom-methods
+    2  git checkout -b javascript-custom-methods
+    3  git status
+    4  git add javascript-custom-methods
+    5  git status
+    6  git commit -m "Completed javascript-custom-methods exercise."
+    7  git push origin javascript-custom-methods
+    8  git push origin javascript-custom-methods
+    9  git switch main
+   10  git pull origin main
+   11  git branch javascript-this
+   12  git switch javascript-this
+   13  git switch javascript-this
+   14  git branch javascript-this
+   15  git switch javascript-this
+   16  git switch javascript-this
+   17  git branch javascript-this
+   18  git switch javascript-this
+   19  git status
+   20  git commit -m "Completed javascript-this exercise."
+   21  git push origin javascript-this
+   22  git add javascript-this
+   23  git commit -m "Completed javascript-this completed exercise."
+   24  git push origin javascript-this
+   25  git switch main
+   26  git branch javascript-prototypes
+   27  git switch javascript-prototypes
+   28  git add javascript-prototypes
+   29  git commit -m "Completed javascript-prototype exercise."
+   30  git push origin javascript-prototype
+   31  git push origin javascript-prototypes
+   32  git switch main
+   33  clear
+   34  git switch main
+   35  git pull origin main
+   36  git branch javascript-constructors
+   37  git switch javascript-constructors
+   38  git status
+   39  git add javascript-constructors
+   40  git commit -m "Completed javascript-constructors exercise."
+   41  git push origin javascript-constructors
+   42  git switch main
+   43  git switch javascript-constructors
+   44  git switch main
+   45  git branch es6-const-let
+   46  git switch es6-const-let
+   47  git add es6-const-let
+   48  git commit -m "Completed es6-const-let exercise."
+   49  git push origin es6-const-let
+   50  git switch main
+   51  git branch es6-classes
+   52  git switch es6-classes
+   53  git status
+   54  git add es6-classes
+   55  git commit -m "Completed es6-classes exercise."
+   56  git push origin es6-classes
+   57  git switch main
+   58  git branch javascript-bank
+   59  git switch javascript-bank
+   60  git switch main
+   61  git pull origin main
+   62  git switch javascript-banks
+   63  git switch javascript-bank
+   64  git switch main
+   65  git branch --list
+   66  git pull origin main
+   67  git switch javascript-bank
+   68  git switch main
+   69  git switch javascript-bank
+   70  git switch main
+   71  git branch es6-template-literals
+   72  git switch es6-template-literals
+   73  git status
+   74  git add es6-template-literals
+   75  git commit -m "Completed es6-template-literals exercise."
+   76  git push origin es6-template-literals
+   77  git switch main
+   78  git switch es6-template-literals
+   79  git add es6-template-literals
+   80  git commit -m "Updated, changed concatenated string to template literals for es6-template-literals exercise."
+   81  git push origin es6-template-literals
+   82  git switch main
+   83  git branch es6-destructuring
+   84  git switch es6-destructuring
+   85  git add es6-destructuring
+   86  git commit -m "Completed es6-destructuring exercise."
+   87  git push origin es6-destructuring
+   88  git switch main
+   89  git status
+   90  git switch javascript-bank
+   91  git switch es6-deconstructuring
+   92  git switch main
+   93  git switch es6-deconstructuring
+   94  git switch destructuring
+   95  git switch es6-destructuring
+   96  git add es6-destructuring
+   97  git commit -m "Updated, added two (,,) to pull information about book6 for es6-destructuring exercise."
+   98  git push origin es6-destructuring
+   99  git switch main
+  100  git switch es6-destructuring
+  101  git add es6-destructuring
+  102  git commit -m "Added a comment"
+  103  git push origin es6-destructuring
+  104  git switch main
+  105  git branch es6-arrow-functions
+  106  git switch es6-arrow-functions
+  107  git add es6-arrow-functions
+  108  git commit -m "Completed es6-arrow-functions exercise."
+  109  git push origin es6-arrow-functions
+  110  git switch main
+  111  git branch es6-operators
+  112  git switch es6-operators
+  113  git switch main
+  114  git branch javascript-timers
+  115  git switch javascript-timers
+  116  git add javascript-timers
+  117  git commit -m "Completed javascript-timers exercise."
+  118  git push origin javascript-timers
+  119  git switch main
+  120  git switch javascript-timers
+  121  git switch main
+  122  git switch es6-operators
+  123  git add es6-operators
+  124  git commit -m "Completed es6-operators exercise."
+  125  git push origin es6-operators
+  126  git switch main
+  127  git branch array-methods
+  128  git switch array-methods
+  129  git add array-methods
+  130  git commit -m "Completed array-methods exercise."
+  131  git push origin array-methods
+  132  git switch main
+  133  git branch javascript-carousel
+  134  git switch javascript-carousel
+  135  git switch main
+  136  git branch http-messages
+  137  git switch http-messages
+  138  http
+  139  clear
+  140  http http://www.example.com
+  141  http --verbose http://www.example.com
+  142  http --body GET https://jsonplaceholder.typicode.com/users > http-messages/users.json
+  143  http --body GET https://example.com > http-messages/index.html
+  144  git add http-messages
+  145  git commit -m "Completed http-messages exercise."
+  146  git push origin http-messages
+  147  git switch main
+  148  git switch javascript-carousel
+  149  git switch main
+  150  git list
+  151  git --list
+  152  git branch --list
+  153  git switch javascript-carousel
+  154  clear
+  155  git switch main
+  156  git branch javascript-ajax
+  157  git switch javascript-ajax
+  158  git status
+  159  git add javascript-ajax
+  160  git commit -m "Completed javascript-ajax exercise."
+  161  git push origin javascript-ajax
+  162  git switch main
+  163  git switch http-messages
+  164  git switch main
+  165  git switch javascript-ajax
+  166  clear
+  167  http --body GET https://api.spoonacular.com/recipes/complexSearch
+  168  http --body GET https://api.spoonacular.com/recipes/716429/information?apiKey=364acd6c21bf4b2d98da1293af3727d7&includeNutrition=true
+  169  cd
+  170  dir
+  171  git status
+  172  cd repo
+  173  cd workspaces
+  174  git main
+  175  cd repos
+  176  cd documents
+  177  git status
+  178  git switch main
+  179  cd workspaces
+  180  dir
+  181  ..
+  182  cd ..
+  183  cd m2-0323-code-solutions
+  184  cd ..
+  185  cd ..
+  186  cd workspaces
+  187  git clone git@github.com:codewithbingle/ajax-project.git
+  188  cd dir
+  189  dir
+  190  cd ajax-project
+  191  git add .
+  192  git commit -m "first commit, initial HTML file"
+  193  git push origin main
+  194  la
+  195  ..
+  196  ..
+  197   cd ..
+  198  cd..
+  199  cd ..
+  200  cd 
+  201  cd computer
+  202  ls
+  203  cd ls
+  204  cd clear
+  205  clear
+  206  dir
+  207  cd dir
+  208  cd ls
+  209  ls
+  210  cd 2TB
+  211  cd
+  212  cd node-intro
+  213  git switch main
+  214  cd workspaces
+  215  cd ls
+  216  cd dir
+  217  dir
+  218  ls
+  219  cd documents
+  220  ls
+  221  dir
+  222  clear
+  223  dir
+  224  ls
+  225  ls
+  226  git switch main
+  227  git pull origin main
+  228  git branch node-intro
+  229  git switch node-intro
+  230  cd node-intro
+  231  cd workspaces/m2-0323-code-solutions/node-intro
+  232  cd workspaces/m2-0323-code-solutions
+  233  cd node-intro
+  234  cd ..
+  235  cd m2-0
+  236  cd m2-0323-code-solutions/
+  237  cd mkdir node-intro
+  238  mkdir node-intro
+  239  cde node-intro
+  240  cd node-intro
+  241  node --version
+  242  cd ..
+  243  cd node-intro
+  244  node hello-node.js
+  245  node
+  246  node
+  247  cd ..
+  248  git add .
+  249  git commit -m "Completed node-intro exercise."
+  250  git push origin node-intro
+  251  git switch main
+  252  git switch javascript-carousel
+  253  ls
+  254  git branch javascript-carousel
+  255  git switch javascript-carousel
+  256  cd ..
+  257  cd ..
+  258  cd workspaces/
+  259  cd m2-0323-code-solutions/
+  260  git switch javascript-carousel 
+  261  git add .
+  262  git commit -m "Completed javascript-carousel exercise.""
+  263  git push origin javascript-carousel
+  264  clear
+  265  git add ,
+  266  git add .
+  267  git commit -m "Completed javascript-carousel exercise."
+  268  git push origin javascript-carousel
+  269  git switch main
+  270  git pull origin main
+  271  git switch main
+  272  git switch node-intro
+  273  git branch node-intro
+  274  git switch node-intro
+  275  cd node-intro
+  276  node hello-node.js
+  277  node
+  278  git switch main
+  279  git switch javascript-carousel 
+  280  cd ..
+  281  cd m2-0323-code-solutions/
+  282  git switch main
+  283  git branch command-line-basics
+  284  git switch command-line-basics
+  285  cd command-line-basics/
+  286  man man
+  287  man cat
+  288  cat - laziness.txt
+  289  cd command-line-basics/
+  290  man cat
+  291  cat laziness.txt
+  292  cat impatience.txt
+  293  cat hubris.txt
+  294  cat laziness.txt impatience.txt hubris.txt > three-virtues.txt
+  295  cat three-virtues.txt
+  296  man ls
+  297  ls -aF
+  298  ls -aF lfz-staff > lfz-staff/contents.txt
+  299  cat lfz-staff/contents.txt
+  300  man pwd
+  301  cat pwd
+  302  pwd
+  303  pwd > i-was-here.txt
+  304  ls
+  305  cat i-was-here.txt
+  306  man cat
+  307  man echo
+  308  echo 'Hello,World!'
+  309  echo 'Hello, World!' > hello.txt
+  310  ls
+  311  cat hello.txt
+  312  man touch
+  313  touch tag-youre-it.txt
+  314  touch snoot/boop.txt
+  315  ls snoot/
+  316  man mkdir
+  317  mkdir parent
+  318  mkdir -p parent/child/grandchild
+  319  touch parent/child/grandchild/.gitkeep
+  320  ls -a
+  321  ls -a parent/child/grandchild
+  322  man mv
+  323  mv pokiemans pokeman
+  324  ls
+  325  mv pokeman pokemon
+  326  ls
+  327  man rm
+  328  rm lol.txt
+  329  ls lol.txt
+  330  rm -r kill-me/
+  331  ls kill-me/
+  332  man cp
+  333  cp and-then.txt no-and-then.txt
+  334  ls
+  335  cat and-then.txt no-and-then.txt 
+  336  man history
+  337  history
+  338  history > command-history.txt
