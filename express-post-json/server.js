@@ -26,8 +26,8 @@ app.post('/api/grades', (req, res) => {
     score: req.body.score
   };
   res.status(201);
-  res.json(grades[nextId]);
   nextId++;
+  res.json(grades[nextId]);
 });
 
 app.delete('/api/grades/:id', (req, res) => {
